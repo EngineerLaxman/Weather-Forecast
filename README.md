@@ -1,16 +1,3 @@
-#Weather Forecast Project
-
-Name: Laxman Basaveshwar Gaidhankar
-
-Company:CODTECH IT SOLUTIONS
-
-ID: CT4WD2873
-
-Domain: Web Development
-
-Duration: June to July 2024 (4 weeks) 
-
-Mentor: Neela Santosh Kumar
 
 Overview:-
 
